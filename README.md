@@ -1,3 +1,5 @@
+# (JS)基于MLPNN的(字母&数字)OCR
+
 # MLP character recognition
 
 Trains a multi-layer perceptron (MLP) neural network to perform optical character recognition (OCR).
